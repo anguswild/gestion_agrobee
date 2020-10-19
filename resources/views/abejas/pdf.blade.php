@@ -92,7 +92,7 @@
         <table>
             <tr>
                 <td>
-                <td><img class="logo" src="img/agrobee_logo.PNG" alt="logo_agrobee"></td>
+                <td><img class="logo" src="img/agrobee_logo.png" alt="logo_agrobee"></td>
                 </td>
                 <td>
                     <h2>Postura Abeja ID: {{$abeja->id}}</h2>
