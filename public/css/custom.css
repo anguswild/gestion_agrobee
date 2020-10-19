@@ -1,0 +1,9 @@
+ 
+  .rounded-lg {
+    border-radius: 1rem;
+  }
+
+  .navbar-brand img {
+    height: 2.5rem;
+    display: block;
+}
